@@ -27,7 +27,6 @@ html{
     background:white;
     position:fixed;
     width:100%;
-    top: 0;
     font-weight:bold;
 }
 
@@ -205,13 +204,6 @@ html{
 @media (min-width:1024px){
     .about-title{
         font-size:2rem;
-    }
-    .person-wrapper{
-        margin-top:5em;
-    }
-    .person-wrapper svg{
-        width:350px !important;
-        height:350px !important;
     }
     .my-image{
         margin:2em;
